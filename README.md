@@ -8,8 +8,7 @@
 
 ## A propos de moi
  ***etudiante en prémiere année bachelor à l'ecole-it valencienne, Passionné par le développement et les solutions élégantes***.  
- **Objectif** : Construire des applications performantes et scalables 
-j'apprend acruellement: [python, html , gitlab , documentation technique, Java, safoni, Uml, chatGPT, Gml, Jemini, ZAIGLPHP, Linux, Windows]
+ **Objectif** : Construire des applications performantes et scalables. 
 
 ---
 
@@ -55,13 +54,19 @@ j'apprend acruellement: [python, html , gitlab , documentation technique, Java, 
   </a>
 </p
     
-
+Ma Roadmap Bachelor 1
+- [x] 1PYT1 — Python Fondamental
+- [X] 1DOC1 — Documentation Technique ← on y est !
+- [x] 1GIT1 — Git & GitHub
+- [ ] 1LNX2 — Linux
+- [x] 1ARC1 — Architecture
+- [ ] 1RES2 — Réseaux
 
 ---
 
 ## 💡 citation
 
-« Le code, c'est comme l'humour : quand il faut l'expliquer, c'est mauvais signe. » – Cory House
+« Le code, c'est comme l'humour : quand il faut l'expliquer, c'est mauvais signe. »   – Cory House
 ---
 
 ## 👀victorias
