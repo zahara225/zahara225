@@ -7,9 +7,9 @@
 ---
 
 ## A propos de moi
- etudiante en prémiere année bachelor à l'ecole-it valencienne, Passionné par le développement et les solutions élégantes.  
- j'apprend actuellement : [**python, html , gitlab , documentation technique, Java, safoni, Uml, chatGPT, Gml, Jemini, ZAIGLPHP, Linux, Windows**]  
- Objectif : Construire des applications performantes et scalables 
+ ***etudiante en prémiere année bachelor à l'ecole-it valencienne, Passionné par le développement et les solutions élégantes***.  
+ **Objectif** : Construire des applications performantes et scalables 
+j'apprend acruellement: [python, html , gitlab , documentation technique, Java, safoni, Uml, chatGPT, Gml, Jemini, ZAIGLPHP, Linux, Windows]
 
 ---
 
@@ -50,9 +50,11 @@
 
 <p align="center">
   </a>
-  <a href="mailto:zarhakonate053@icloud.com">
-    
+  <a href="mailto:zarhakonate053@icloud.com"> 
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+</p
+    
 
 
 ---
