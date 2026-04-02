@@ -8,9 +8,8 @@
 
 ## A propos de moi
  etudiante en prémiere année bachelor à l'ecole-it valencienne, Passionné par le développement et les solutions élégantes.  
- Actuellement en train d’apprendre : **python,html,gitlab ,documentation technique, Java , safoni, uml,chatGPT,GLM,JEMINI,ZAIGLPHP,Linux,Windows**  
- Objectif : Construire des applications performantes et scalables  
- Basé en France  
+ j'apprend actuellement : [**python, html , gitlab , documentation technique, Java, safoni, uml, chatGPT, GLM, JEMINI, ZAIGLPHP, Linux, Windows**]  
+ Objectif : Construire des applications performantes et scalables 
 
 ---
 
