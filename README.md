@@ -16,7 +16,7 @@
 
 </div>
 
-## 🙋‍♀️ À propos de moi
+##  À propos de moi
 
 - 🎓 Étudiante en **1ère année** en développement web / informatique
 - 💻 J'apprends à construire des projets web from scratch
@@ -70,7 +70,7 @@ $moi = [
     "prénom"    => "Zahara",
     "niveau"    => "1ère année",
     "en_cours"  => ["PHP"],
-    "objectif"  => "Devenir développeuse full-stack 🚀",
+    "objectif"  => "Devenir développeuse full-stack ",
     "humeur"    => "☕ + 💻 = 🔥"
 ];
 
@@ -91,7 +91,7 @@ echo "Bienvenue sur mon profil !";
 - [x] Programmation Orientée Objet
 - [x] Base de données
 - [ ] Framework (bientôt...)
-- [ ] Mon premier projet complet 🎯
+- [ ] Mon premier projet complet 
 
 ---
 
