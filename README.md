@@ -4,7 +4,7 @@
 ╔═══════════════════════════════════════════════════╗
 ║                                                   ║
 ║        Bonjour, moi c'est                         ║
-║   ✦  Fatoumata Zahara Konate  ✦                              ║
+║   ✦   Fatoumata Zahara Konate  ✦                              ║
 ║        Étudiante en développement web 🎓          ║
 ║                                                   ║
 ╚═══════════════════════════════════════════════════╝
