@@ -23,7 +23,8 @@ compétence et de me perfectionner. Je suis disponible immédiatement pour débu
 **Outils**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,oracl+virtualbox&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark" />
+<p align="center"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/> </p> <br/>
 </div>
 
 **Environnements**
