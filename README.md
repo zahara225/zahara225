@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F5C99&height=150&section=header&text=Basile%20Monier&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F5C99&height=150&section=header&text=Fatoumata%20Zahara&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 </h1>
 
 <p align="center">
@@ -8,7 +8,9 @@
 
 ## À propos de moi
 
-Étudiante en informatique, 
+Étudiante en école d'informatique et passionné par tout ce qui concerne le système, réseaux et aussi du
+développement full-stack. Je suis à la recherche d'une alternance dans ces domaine afin de mettre en pratique mes
+compétence et de me perfectionner. Je suis disponible immédiatement pour débuter.
 
 ## Compétences
 
@@ -27,7 +29,7 @@
 **Environnements**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
 </div>
 
 ## Mes stats GitHub
@@ -42,10 +44,10 @@
 ## Me contacter
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/fatoumata-zahara-konate-0921a5402//" /></a>
-<a href="mailto:zarhakonate053@icloud.com" /></a
+<p align="center"> <a href="mailto:zarhakonate053@icloud.com"> <img src="https://img.shields.io/badge/Email-zarhakonate053%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/fatoumata-zahara-konate-0921a5402/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Fatoumata%20Zahara%20Konate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> <br/> <p align="center"> <img src="./banner.png" alt="Fatoumata Zahara banner" width="100%"/> </p>
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C99,100:0D1117&height=100&section=footer" width="100%"/>
+
+
+
