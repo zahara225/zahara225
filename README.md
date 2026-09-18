@@ -2,10 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F5C99&height=150&section=header&text=Fatoumata%20Zahara&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 </h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=%C3%89tudiante+%C3%A0+à+Supinfo+%C2%B7+Paris;%C3%80+la+recherche+d'une+alternance" />
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=D%C3%89tudiante+%C3%A0+àb+Supinfo+%C2%B7+Paris;%C3%80+la+recherche+d'une+alternance" />
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=D%C3%A9veloppeur+en+devenir;%C3%80+la+recherche+d'une+alternance" />
 </p>
+
 ## À propos de moi
 
 Étudiante en école d'informatique et passionné par tout ce qui concerne le système, réseaux et aussi du
