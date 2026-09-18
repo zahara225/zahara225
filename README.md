@@ -23,7 +23,7 @@ compétence et de me perfectionner. Je suis disponible immédiatement pour débu
 **Outils**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,oraclvirtualbox&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,oracl+virtualbox&theme=dark" />
 </div>
 
 **Environnements**
