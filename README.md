@@ -44,7 +44,8 @@ compétence et de me perfectionner. Je suis disponible immédiatement pour débu
 ## Me contacter
 
 <div align="center">
-<p align="center"> <a href="mailto:zarhakonate053@icloud.com"> <img src="https://img.shields.io/badge/Email-zarhakonate053%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/fatoumata-zahara-konate-0921a5402/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Fatoumata%20Zahara%20Konate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> <br/> <p align="center"> <img src="./banner.png" alt="Fatoumata Zahara banner" width="100%"/> </p>
+<p align="center"> <a href="mailto:zarhakonate053@icloud.com"> <img src="https://img.shields.io/badge/Email-zarhakonate053%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/fatoumata-zahara-konate-0921a5402/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Fatoumata%20Zahara%20Konate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+</p>
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C99,100:0D1117&height=100&section=footer" width="100%"/>
